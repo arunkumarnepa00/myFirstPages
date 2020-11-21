@@ -1,0 +1,60 @@
+.brand{
+  margin-left:50px;
+}
+.nav-item{
+  margin:0 20px;
+}
+.login{
+margin:0 20px;
+text-decoration:none;
+font-size:20px;
+}
+.challenges{
+  padding:50px 200px;
+}
+.card{
+  margin:10px 0px;
+  box-shadow:5px 5px 3px #e6e6e6;
+  border-radius:10px;
+  padding:20px;
+}
+.card-body{
+display: inline-flex;
+
+}
+
+/*footer*/
+#lf{
+    background-color:white;
+    width:100%;
+    position:absolute;
+    text-align:center;
+    margin-top:100px;
+    padding:20px 0 30px 0;
+}
+#lf .fa {
+  padding:5px;
+  font-size: 20px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+#lf .fa-facebook {
+  background: #929395;
+  color: white;
+  border-radius:30px;
+}
+#lf .fa-linkedin {
+  background: #929395;
+  color: white;
+  border-radius:5px;
+}
+#lf .fa-youtube-play {
+  background:#929395;
+  color:white;
+}
+#lf .fa-instagram {
+  background: white;
+  color:#929395;
+}

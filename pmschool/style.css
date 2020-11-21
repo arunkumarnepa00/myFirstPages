@@ -1,0 +1,72 @@
+
+.brand{
+  margin-left:50px;
+}
+.nav-item{
+  margin:0 20px;
+}
+.login{
+margin:0 20px;
+text-decoration:none;
+font-size:20px;
+}
+.main{
+  margin-bottom:50px;
+}
+.register{
+  margin-left:60px;
+  padding:15px;
+  font-size:18px;
+  box-shadow:5px 5px 5px 5px #999999;
+  border-outline:2px;
+  background-color:white;
+  border-width:1px;
+
+}
+
+.register:hover{
+  background-color:#e6e6ff;
+  color:black;
+
+}
+.register fa:hover{
+  color:white;
+}
+
+
+
+/*footer*/
+#lf{
+    background-color:white;
+    width:100%;
+    position:absolute;
+    text-align:center;
+    margin-top:100px;
+    padding:20px 0 30px 0;
+}
+#lf .fa {
+  padding:5px;
+  font-size: 20px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+#lf .fa-facebook {
+  background: #929395;
+  color: white;
+  border-radius:30px;
+}
+#lf .fa-linkedin {
+  background: #929395;
+  color: white;
+  border-radius:5px;
+}
+#lf .fa-youtube-play {
+  background:#929395;
+  color:white;
+}
+#lf .fa-instagram {
+  background: white;
+  color:#929395;
+}
