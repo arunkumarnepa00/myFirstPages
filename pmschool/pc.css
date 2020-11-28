@@ -10,7 +10,7 @@ text-decoration:none;
 font-size:20px;
 }
 .challenges{
-  padding:50px 200px;
+  padding:50px 150px;
 }
 .card{
   margin:10px 0px;
@@ -24,6 +24,9 @@ display: inline-flex;
 }
 
 /*footer*/
+footer{
+  font-size:10px;
+}
 #lf{
     background-color:white;
     width:100%;
@@ -34,8 +37,8 @@ display: inline-flex;
 }
 #lf .fa {
   padding:5px;
-  font-size: 20px;
-  width: 30px;
+  font-size: 15px;
+  width: 25px;
   text-align: center;
   text-decoration: none;
   margin: 5px 2px;
@@ -57,4 +60,11 @@ display: inline-flex;
 #lf .fa-instagram {
   background: white;
   color:#929395;
+}
+
+
+@media and screen (max-width:400) {
+  .navbar{
+    padding-top:30px;
+  }
 }

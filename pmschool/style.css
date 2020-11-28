@@ -15,7 +15,6 @@ font-size:20px;
 }
 .register{
 
-
   padding:15px;
   font-size:18px;
   box-shadow:5px 5px 5px 5px #999999;
@@ -47,6 +46,7 @@ footer{
     text-align:center;
     margin-top:100px;
     padding:20px 0 30px 0;
+    bottom:inherit;
 }
 #lf .fa {
   padding:5px;
